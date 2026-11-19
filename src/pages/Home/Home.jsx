@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom'
 import LokasiPerumahan from '../../components/LokasiPerumahan/LokasiPerumahan'
-import './Home.css'
 
 function Home() {
   // Array untuk data perumahan (bisa diisi dari backend nanti)
